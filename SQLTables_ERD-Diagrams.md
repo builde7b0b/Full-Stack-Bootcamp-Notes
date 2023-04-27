@@ -17,11 +17,7 @@ SQL Cheatsheets
 https://www.cockroachlabs.com/blog/sql-cheat-sheet/
 https://www.datacamp.com/cheat-sheet/sql-basics-cheat-sheet
 
-Advanced Database Management 
-https://github.com/sureshmelvinsigera/CSC-424-Advanced-Database-Management-Systems/blob/master/Lecture%203%20-%20Introducing%20Psycopg%2C%20and%20CRUD%20using%20Psycopg.pdf
 
-\i /c/Users/Zoe/sei/java/labs-hw/week6/day1/sql-join-lab/movies_db/seed.sql
-/c/Users/Zoe/sei/java/labs-hw/week6/day1/sql-join-lab
 
 
 ## Questions
