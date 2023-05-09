@@ -39,7 +39,7 @@ This section should describe how to get started with the project, including how 
 
 
 ## Project Approach
-### Development Methodology: Agile
+### Development Methodology: 
 Agile etc.
 
 ### Technology Stack: Spring Boot and PostgreSQL
